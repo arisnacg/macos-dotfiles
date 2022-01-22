@@ -1,0 +1,9 @@
+[user]
+	name = Agus Aris
+	email = arisna@cakeplabs.com
+[credential]
+	helper = osxkeychain
+[credentials]
+	helper = osxkeychain
+[init]
+	defaultBranch = main
